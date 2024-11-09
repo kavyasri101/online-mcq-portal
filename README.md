@@ -6,4 +6,4 @@ Back-end Technologies : Python Flask, MySQL
 
 Front-end Technologies : HTML, CSS, JavaScript, Jinja Template
  
-Author : ADITYA ANAND , INDIAN INSTITUTE OF INFROMATION TECHNOLOGY ALLAHABAD , 2019
+
